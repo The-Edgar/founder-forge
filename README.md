@@ -2,7 +2,7 @@
 
 ### Zero to Strategy in One Session
 
-> Zero to Strategy in One Session — Develop your Business Idea into an actionable strategy based on thorough market research and competitor analysis. Clarify your ICPs, USPs, Service Pricing, Brand Voice, Website copy and GTM playbook like a YC entrepreneur. Consultant-free.
+> Develop your Business Idea into an actionable strategy based on thorough market research and competitor analysis. Clarify your ICPs, USPs, Service Pricing, Brand Voice, Website copy and GTM playbook like a YC entrepreneur. Consultant-free.
 
 What takes McKinsey 8 weeks and $200K, FounderForge builds in one session with live market research, battle-tested frameworks, and zero billable hours.
 
