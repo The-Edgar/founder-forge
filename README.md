@@ -38,8 +38,19 @@ Idea → Market Research → Strategic Q&A → 6 Artifacts
 ---
 
 ## Quick Start
-
+Add the skill on command line with 
 ```bash
+npx skills add The-Edgar/founder-forge
+```
+```bash
+# Run in Claude Code
+/founder-forge Your business idea here
+```
+OR 
+Install as a marketplace plugin.
+```bash
+# Run in Claude Code
+
 # Step 1: register the marketplace (once per machine)
 /plugin marketplace add The-Edgar/founder-forge
 
@@ -52,8 +63,8 @@ Idea → Market Research → Strategic Q&A → 6 Artifacts
 
 **Example:**
 ```
-/founder-forge AI automation agency focused on e-commerce brands
-/founder-forge B2B SaaS for construction project management
+/founder-forge Emergency wildlife removal app for after-hours encounters
+/founder-forge AI protocol platform for functional medicine practitioners
 /founder-forge Fractional CFO services for Series A startups
 ```
 
