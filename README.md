@@ -2,7 +2,7 @@
 
 ### Zero to Strategy in One Session
 
-> Develop your Business Idea into an actionable strategy based on thorough market research and competitor analysis. Clarify your ICPs, USPs, Service Pricing, Brand Voice, Website copy and GTM playbook like a YC entrepreneur. Consultant-free.
+> Develop your Business Idea into an actionable strategy based on thorough market research and competitor analysis. Clarify your ICPs, USPs, Pricing, Brand Voice, Website copy and GTM playbook like a YC entrepreneur. Consultant-free.
 
 What takes McKinsey 8 weeks and $200K, FounderForge builds in one session with live market research, battle-tested frameworks, and zero billable hours.
 
@@ -12,12 +12,12 @@ What takes McKinsey 8 weeks and $200K, FounderForge builds in one session with l
 
 Six interconnected strategy artifacts with each built through real market research and informed by the one before it:
 
-1. **Ideal Customer Profile** — Know exactly who you're building for. Specific enough to find them on LinkedIn.
-2. **Positioning & USPs** — Claim your space in a crowded market. Pass the "only we" test.
-3. **Brand Voice Framework** — Sound like you, everywhere, every time. With "this, not that" guardrails.
-4. **Service Offerings & Pricing** — Package and price your value. Grounded in market benchmarks.
-5. **Website Messaging Map** — Turn visitors into customers. Page-by-page copy frameworks.
-6. **GTM Playbook** — Pick your 1-2 channels, get a launch-ready playbook with 4-5 specific hooks per channel.
+1. **Ideal Customer Profile**: Know exactly who you're building for. Specific enough to find them on LinkedIn.
+2. **Positioning & USPs**: Claim your space in a crowded market. Pass the "only we" test.
+3. **Brand Voice Framework**: Sound like you, everywhere, every time. With "this, not that" guardrails.
+4. **Service Offerings & Pricing**: Package and price your value. Grounded in market benchmarks.
+5. **Website Messaging Map**: Turn visitors into customers. Page-by-page copy frameworks.
+6. **GTM Playbook**: Pick your 1-2 channels, get a launch-ready playbook with 4-5 specific hooks per channel.
 
 ---
 
@@ -30,21 +30,23 @@ Idea → Market Research → Strategic Q&A → 6 Artifacts
                                              the next begins)
 ```
 
-1. **Share your business idea** — any stage, any business model
-2. **FounderForge researches your market** — competitors, pricing, trends, customer behavior. Live web data, not guesses.
-3. **Strategic questions sharpen your positioning** — 6-8 questions across target customer, differentiation, voice, pricing, proof, and scope
-4. **Six artifacts are forged one by one** — each presented for your review before the next begins. Prior artifacts feed into subsequent ones.
+1. **Share your business idea**: any stage, any business model
+2. **FounderForge researches your market**: competitors, pricing, trends, customer behavior. Live web data, not guesses.
+3. **Strategic questions sharpen your positioning**: 6-8 questions across target customer, differentiation, voice, pricing, proof, and scope
+4. **Six artifacts are forged one by one**: each presented for your review before the next begins. Prior artifacts feed into subsequent ones.
 
 ---
 
 ## Quick Start
 
 ```bash
-# Install from GitHub
+# Step 1: register the marketplace (once per machine)
 /plugin marketplace add The-Edgar/founder-forge
+
+# Step 2: install the plugin
 /plugin install founder-forge@founder-forge
 
-# Run
+# Step 3: run it
 /founder-forge Your business idea here
 ```
 
@@ -77,7 +79,7 @@ founder-forge-output/
 ## Requirements
 
 - **Claude Code or Cowork**
-- **Web search tools** (required — FounderForge does real market research)
+- **Web search tools** (required: FounderForge does real market research)
 
 **Recommended**: [Perplexity MCP server](https://github.com/ppl-ai/modelcontextprotocol) for citation-backed research
 
@@ -92,8 +94,8 @@ founder-forge-output/
 The GTM Playbook goes deeper than "post on LinkedIn." For each of your chosen channels (you pick 1-2), FounderForge:
 
 1. **Researches what's actually working** on that channel in your niche right now
-2. **Generates 4-5 specific, ready-to-use hooks** — not templates, but actual copy tailored to your ICP and positioning
-3. **Explains why each hook works** — the psychology behind it in one line
+2. **Generates 4-5 specific, ready-to-use hooks**: not templates, but actual copy tailored to your ICP and positioning
+3. **Explains why each hook works**: the psychology behind it in one line
 
 Supported channels: Cold Email, LinkedIn, TikTok, Twitter/X, Reddit, YouTube, Partnerships, Communities/Events
 
