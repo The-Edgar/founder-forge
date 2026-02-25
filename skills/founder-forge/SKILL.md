@@ -68,16 +68,14 @@ Initial request: $ARGUMENTS
 
 5. **Establish a working name:**
    > "Do you have a working name for this business?"
-
-   - If the user has a name: confirm it and use it in all artifacts.
-   - If the user has no name or says "not yet": proactively suggest **3 name options**. Names should be punchy, memorable, and relevant to the business — not generic. Present them as:
      > "Here are 3 name ideas to work with:
      > 1. **[Name 1]** — [one-line rationale]
      > 2. **[Name 2]** — [one-line rationale]
      > 3. **[Name 3]** — [one-line rationale]
      >
      > Pick one to use as your working name, or propose your own."
-   - Wait for the user to select or propose a name. Use that name in all artifacts from this point forward.
+
+   - Confirm the user's choice and use that name in all artifacts from this point forward.
 
 6. Launch **two agents in parallel**:
 
