@@ -64,7 +64,7 @@ Initial request: $ARGUMENTS
 4. **Ask for supporting materials:**
    > "Do you have any supporting materials I should factor in? (e.g., a website URL, pitch deck, existing docs, or notes — all optional)"
 
-   If provided: read and incorporate them throughout all phases using common sense. Do not treat them as a brief to execute literally — treat them as context that informs decisions.
+   If provided: read and incorporate them throughout all phases using common sense. Do not treat them as a brief to execute literally, treat them as context that informs decisions.
 
 5. **Establish a working name:**
    > "Do you have a working name for this business?"
@@ -193,6 +193,7 @@ Before launching the artifact-builder for the GTM Playbook, ask the user:
 > - YouTube
 > - Partnerships
 > - Communities/Events
+> - Other? Specify
 >
 > Pick the channels where your target customers actually spend time."
 
