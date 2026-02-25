@@ -1,0 +1,14 @@
+{
+  "name": "founder-forge",
+  "owner": {
+    "name": "Edgar Rootalu",
+    "email": "edgar.rootalu@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "founder-forge",
+      "source": "./",
+      "description": "Zero to Strategy in One Session — research your market, clarify your strategy, and forge 6 core business artifacts. Consultant-free."
+    }
+  ]
+}
