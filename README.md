@@ -40,11 +40,13 @@ Idea → Market Research → Strategic Q&A → 6 Artifacts
 ## Quick Start
 
 ```bash
-# Install from GitHub
+# Step 1 — register the marketplace (once per machine)
 /plugin marketplace add The-Edgar/founder-forge
+
+# Step 2 — install the plugin
 /plugin install founder-forge@founder-forge
 
-# Run
+# Step 3 — run it
 /founder-forge Your business idea here
 ```
 
