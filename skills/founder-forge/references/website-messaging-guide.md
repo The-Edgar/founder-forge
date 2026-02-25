@@ -2,9 +2,9 @@
 
 ## Purpose
 
-The Website Messaging Map is the translation layer between strategy and execution. It takes everything built so far — the ICP, positioning, brand voice, and pricing — and turns it into specific copy frameworks for each page of the website.
+The Website Messaging Map takes everything built so far — the ICP, positioning, brand voice, and pricing — and turns it into specific copy frameworks for each page of the website.
 
-This isn't a wireframe. It's a messaging architecture: what to say, in what order, with what goal, on every key page. A designer or developer can build directly from this document.
+This is a messaging architecture: what to say, in what order, with what goal, on every key page. A designer or developer can build directly from this document.
 
 ---
 
@@ -12,201 +12,141 @@ This isn't a wireframe. It's a messaging architecture: what to say, in what orde
 
 ### 1. Messaging Strategy Overview
 
-A brief (1-2 paragraph) summary of the website's core job:
-- What is the primary goal of the website? (Generate leads, build credibility, drive demo bookings, sell directly?)
-- What stage of the buying journey does the website primarily serve? (Awareness, consideration, decision?)
-- What does the ideal visitor experience look like? (First visit → What action do we want them to take?)
-
-**Primary CTA** (the one action the entire site funnels toward):
-- CTA label: (e.g., "Book a Strategy Call", "Start Free Trial", "Download the Guide")
-- CTA destination: (e.g., Calendly link, signup page, lead magnet)
-- Why this CTA for this ICP: (connects to buying behavior from ICP artifact)
+Two short paragraphs:
+1. The website's primary job: generate leads, build credibility, drive demo bookings, sell directly? What buying stage does it primarily serve?
+2. The primary CTA — label, destination, and why this action fits this ICP's buying behavior.
 
 ---
 
 ### 2. Homepage Messaging Map
 
-The homepage is the most critical page. It must answer 3 questions in the first 5 seconds:
-1. What is this?
-2. Who is it for?
-3. Why should I care?
+The homepage must answer 3 questions in the first 5 seconds: What is this? Who is it for? Why should I care?
 
 #### Hero Section
 
-**Headline**: (8-12 words, the clearest possible statement of the primary benefit for the ICP)
-- Formula options:
-  - **Benefit-first**: "[Specific Outcome] for [Specific Customer]"
-  - **Problem-first**: "Stop [Specific Frustration]. Start [Specific Outcome]."
-  - **Only we**: "The only [category] that [unique differentiator] for [customer]"
+**Headline**: Write one headline (8-12 words) that states the primary benefit for the ICP.
 
-Provide 3 headline options to choose from.
+If listing options, write them plain — one per line, no sub-sections, no rationale explaining why each works:
 
-**Subheadline**: (1-2 sentences that add specificity — who it's for, how it works, what makes it different)
-- Should answer "how?" or "what specifically?"
-- 20-30 words maximum
+> Option A: [headline]
+> Option B: [headline]
+> Option C: [headline]
 
-**Hero CTA**: Primary button label + supporting secondary CTA if applicable
-- Primary: [Label] — (action-oriented, specific)
-- Secondary: [Label] — (lower commitment option, e.g., "See how it works")
+Formula options:
+- **Benefit-first**: "[Specific Outcome] for [Specific Customer]"
+- **Problem-first**: "Stop [Specific Frustration]. Start [Specific Outcome]."
+- **Only we**: "The only [category] that [unique differentiator] for [customer]"
 
-**Hero visual/proof note**: What should sit next to or below the hero copy? (e.g., client logos, a result stat, a product screenshot, a photo of the team)
+**Subheadline**: 1-2 sentences (20-30 words) adding specificity — who it's for, how it works, what makes it different.
+
+**Hero CTA**:
+- Primary: [Label] — action-oriented, specific
+- Secondary: [Label] — lower commitment (e.g., "See how it works")
+
+**Hero proof note**: What sits next to or below the hero copy? (client logos, a result stat, a product screenshot)
 
 ---
 
 #### Problem Statement Section
 
-Articulate the problem the ICP faces before introducing the solution. This is where buyers feel seen.
+This is where buyers feel seen. Articulate the problem before introducing the solution.
 
-**Section headline**: (frames the problem without sounding negative)
-**Body**: 2-4 bullet points or short paragraphs describing:
-- The situation the ICP is in
-- The frustrations they're experiencing
-- The cost of the status quo (time, money, missed opportunity)
-
-Use language pulled directly from the ICP artifact's pain points section.
+- **Section headline**: frames the problem without sounding negative
+- **Body**: 3-4 bullets describing the situation the ICP is in, the frustrations they're experiencing, and the cost of the status quo. Use language pulled directly from the ICP doc's pain points section.
 
 ---
 
 #### Solution Overview Section
 
-The bridge from problem to solution.
+Bridge from problem to solution.
 
-**Section headline**: (introduces the solution category and primary benefit)
-**Body**: 2-3 short paragraphs or bullet points describing:
-- What this solution does (high level)
-- How it works (the mechanism, briefly)
-- The transformation: before → after
-
-**Supporting visual**: What would reinforce this section? (process graphic, before/after, diagram?)
+- **Section headline**: introduces the solution category and primary benefit
+- **Body**: 2-3 bullets covering what this solution does (high level), how it works briefly, and the transformation: before → after
 
 ---
 
 #### Key Benefits / How It Works Section
 
-Depending on the business, this is either a "benefits" section (for service businesses) or a "how it works" section (for products or structured processes).
-
-Provide 3-4 benefits or steps. For each:
-- **Icon or label**: (one-word or short descriptor)
-- **Headline**: (the benefit or step, in 5-8 words)
-- **Body**: (1-3 sentences of supporting detail)
+3-4 benefits or steps. For each:
+- **Label**: one-word or short descriptor
+- **Headline**: the benefit or step in 5-8 words
+- **Body**: 1-3 sentences of supporting detail
 
 ---
 
 #### Social Proof Section
 
-Credibility anchors. Format depends on available proof:
-
 **If testimonials exist:**
-- Feature 2-3 testimonials pulled from the ICP's peer group
-- Format: Quote + Name + Title/Company + Photo (if available)
-- Arrange by stage of buying journey (awareness testimonial, consideration testimonial, results testimonial)
+- 2-3 testimonials from the ICP's peer group
+- Format: Quote + Name + Title/Company
 
 **If case studies exist:**
 - Headline: "[Client type] achieved [specific result] in [timeframe]"
 - 2-3 sentence summary of the outcome
-- Link to full case study
 
 **If no testimonials yet:**
-- Feature specific outcome claims backed by the founder's credentials
-- Early adopter language: "Built for [ICP description]"
+- Specific outcome claims backed by the founder's credentials
 - Credibility signals: notable past employers, certifications, partnerships
 
 ---
 
 #### Final CTA Section
 
-Repeat the primary CTA with more urgency or conviction at the bottom of the page.
-
-**Section headline**: (addresses the final objection before they leave — often about risk or timing)
-**Body**: 1-2 sentences that reduce friction or increase urgency
-**CTA button**: Same as hero, or a slightly different angle
+- **Section headline**: addresses the final objection before they leave (risk or timing)
+- **Body**: 1-2 sentences that reduce friction
+- **CTA button**: same label as hero, or a slightly different angle
 
 ---
 
 ### 3. About Page Messaging Map
 
-The About page is a trust page — buyers come here to decide if they like and trust the people behind the product.
-
 **Origin story** (2-4 paragraphs):
-- Why this business exists (the founder's genuine motivation)
-- The problem they personally experienced or witnessed
+- Why this business exists
+- The problem personally experienced or witnessed
 - The moment they decided to build this solution
 - What makes them the right people to build it
 
-**Team section**: (for each key team member)
-- Name, title, 2-3 sentence bio
-- Specific credibility: "Previously at X", "Led Y", "10 years in Z"
-- Optional: 1 humanizing detail
+**Team section**: for each key person — name, title, 2-3 sentence bio with specific credibility ("Previously at X", "Led Y", "10 years in Z")
 
-**Mission / values section**: (optional, but effective for businesses where trust matters)
-- 1-sentence mission statement
-- 2-4 values with brief explanation
-
-**Social proof on About**: Logos of notable clients or past employers, media mentions, certifications
+**Social proof**: logos of notable clients or past employers, media mentions, certifications
 
 ---
 
 ### 4. Services Page Messaging Map
 
-This is the conversion page for buyers who've moved past awareness.
+This page converts buyers who've moved past awareness. Write the marketing copy — what to say on the page, verbatim.
 
-**Services overview section**:
-- Headline: framing the suite of offerings around the customer's transformation, not around features
-- 2-3 sentence description of the overall approach
+**Services overview**: one headline framing the suite around the customer's transformation, plus 2-3 sentences describing the overall approach.
 
-**Individual service / tier sections** (one per offering from the Pricing artifact):
+**For each tier** (reference the Pricing doc for tier names and structure — do not re-describe what's in the Pricing doc here):
+- **Who it's for**: specific sub-segment of ICP
+- **The promise**: outcome, stated as transformation
+- **CTA**: specific to this tier (e.g., "Book a Foundation Call", "See if Growth is right for you")
 
-For each tier:
-- **Service name**: (from Pricing artifact)
-- **Who it's for**: (specific sub-segment of ICP)
-- **The promise**: (outcome, stated as transformation)
-- **What's included**: (specific list)
-- **Price or "starting at"**: (from Pricing artifact guidance)
-- **CTA**: specific to this service (e.g., "Book a Foundation Call", "See if Growth is right for you")
+**Process / methodology section**: how the business delivers, written as 3-5 steps with a brief description of each.
 
-**Process / methodology section**:
-- How the business delivers
-- 3-5 steps with a brief description of each
-- Conveys professionalism and sets expectations
+For the add-ons, write one sentence: "Additional services are available — see the [Pricing doc link] for the full list."
 
 ---
 
 ### 5. Contact / Conversion Page Messaging Map
 
-The last page before a lead becomes a conversation.
-
-**Headline**: (acknowledge what they're about to do — make it feel easy and worthwhile)
-**Subheadline**: (set expectations — "Here's what happens next")
-**What to expect**: (after submitting: timeline, format, outcome of the call)
-**Form fields**: (minimal — name, email, company size, "What's your biggest challenge right now?")
-**Reassurance**: (below the form — what makes this safe to do)
-
----
-
-## Headline Frameworks
-
-Reference these frameworks when writing section headlines:
-
-| Framework | Formula | Best For |
-|-----------|---------|----------|
-| Benefit-first | "[Action] your [outcome]" | Hero, CTAs |
-| Problem-agitate | "Still [frustrating situation]?" | Problem section |
-| Social proof | "[X customers] [achieved Y] using [product]" | Social proof sections |
-| Specificity | "In [timeframe], [outcome] — guaranteed" | CTA section |
-| Transformation | "From [before state] to [after state]" | Services, About |
-| Authority | "The [category] trusted by [credibility signal]" | About, Header |
+- **Headline**: acknowledge what they're about to do — make it feel easy and worthwhile
+- **Subheadline**: set expectations ("Here's what happens next")
+- **What to expect**: after submitting — timeline, format, outcome of the call
+- **Form fields**: minimal — name, email, company size, "What's your biggest challenge right now?"
+- **Reassurance**: what makes this safe to do (no hard sell, specific next step, easy to opt out)
 
 ---
 
 ## CTA Hierarchy
 
-Every page should have a clear CTA hierarchy:
+Every page should have a clear hierarchy:
+1. **Primary CTA**: the one action the site is optimized for
+2. **Secondary CTA**: lower-commitment alternative
+3. **Exit CTA**: catch visitors before they leave (newsletter or resource offer)
 
-1. **Primary CTA**: The one action the site is optimized for (e.g., "Book a Strategy Call")
-2. **Secondary CTA**: Lower-commitment alternative (e.g., "Download the Guide", "See case studies")
-3. **Exit CTA**: Catch visitors before they leave (newsletter, chatbot, or resource offer)
-
-Avoid having more than 2 CTAs competing on a single page section.
+Avoid more than 2 CTAs competing on a single page section.
 
 ---
 
@@ -215,9 +155,8 @@ Avoid having more than 2 CTAs competing on a single page section.
 The Website Messaging Map is complete when:
 - [ ] A visitor can understand the value proposition in under 5 seconds on the homepage
 - [ ] Every page has a single primary CTA with a clear hierarchy
-- [ ] The problem section uses language directly from the ICP pain points
-- [ ] The social proof section contains real, specific proof (not placeholder text)
-- [ ] The services page maps directly to the Pricing artifact's tier structure
+- [ ] The problem section uses language directly from the ICP doc's pain points
+- [ ] The services page contains marketing copy — it does not re-describe tier structure from the Pricing doc
 - [ ] Headlines use specific numbers, outcomes, or customer descriptions — not generic claims
-- [ ] The messaging is consistent with the Brand Voice framework throughout
+- [ ] The messaging is consistent with the Brand Voice doc throughout
 - [ ] A developer could build all key pages from this document without asking questions

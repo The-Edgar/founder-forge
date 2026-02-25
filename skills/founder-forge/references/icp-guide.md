@@ -10,8 +10,6 @@ A great ICP is specific enough that you could open LinkedIn, type a search, and 
 
 ## Document Structure
 
-The ICP artifact should contain these sections in order:
-
 ### 1. Profile Overview
 
 One-paragraph portrait of the ideal customer. Write it as if describing a specific person (even if they're a composite). Include enough detail that a sales or marketing person could picture them clearly.
@@ -71,23 +69,16 @@ What does this person believe? What do they value? What motivates them beyond th
 
 ### 4. Pain Points & Challenges
 
-The 3-5 most significant problems they face that your business directly addresses. Be specific — use language they'd actually use.
+The 3-5 most significant problems they face that this business directly addresses. Use language the customer would actually use — not corporate-speak.
 
-For each pain point:
-- **The problem**: (what's broken or missing)
-- **The impact**: (what it costs them — time, money, opportunity, stress)
-- **Current workaround**: (what they do about it today, imperfectly)
-
-**Example (not to copy — adapt to the specific business):**
-> **Pain point**: Can't find reliable contractors for overflow work
-> **Impact**: Projects get delayed, existing team burns out, revenue opportunity is lost
-> **Workaround**: Posting on Upwork, spending 5+ hours reviewing applications per project
+For each pain point, write three items on one line:
+- **The problem** | **The impact** (what it costs them — time, money, opportunity, stress) | **Current workaround** (what they do today, imperfectly)
 
 ---
 
 ### 5. Buying Triggers
 
-What has to happen for this person to start looking for a solution? Triggers are the specific events or conditions that move them from "not looking" to "actively searching."
+What has to happen for this person to start looking for a solution? List triggers in 4 categories, 1-2 bullets each:
 
 - **Positive triggers**: (growth event, new hire, new initiative, budget opening up)
 - **Pain triggers**: (failed project, lost client, team departure, cost overrun)
@@ -98,48 +89,40 @@ What has to happen for this person to start looking for a solution? Triggers are
 
 ### 6. Decision-Making Process
 
-How do they actually buy?
+Write as 3 direct statements — no sub-headers:
 
-- **Who initiates the search?** (champion vs. decision-maker vs. end user)
-- **How many people are involved?** (solo vs. committee)
-- **Typical decision timeline**: (days, weeks, months?)
-- **Key evaluation criteria**: (What do they compare? What must a vendor have?)
-- **Where do they find vendors?** (Google, referrals, communities, LinkedIn, etc.)
-- **What kills a deal?** (Red flags, objections, must-haves that disqualify)
+1. **Who decides**: Name who initiates the search, who evaluates options, and who signs off. If it's a committee, name the roles.
+2. **Timeline**: Typical time from first search to signed contract.
+3. **Top 2 evaluation criteria**: The two factors that most determine which vendor wins.
+
+Do not include an Approval Chain breakdown. Do not list every factor they consider. State who, how long, and what matters most — that's enough.
 
 ---
 
 ### 7. Objections & Concerns
 
-The top 3-5 objections this buyer raises before committing. For each:
-- **The objection**: (what they say or think)
-- **The real concern behind it**: (what they actually fear)
-- **The response**: (how to address it)
+The top 3-5 objections this buyer raises before committing. Write each as a single row:
 
-Common objection categories:
-- Price / ROI uncertainty
-- Risk of switching / implementation burden
-- "Not the right time" / prioritization
-- Trust / credibility concerns about a newer provider
-- Internal resource constraints
+**Objection** → **Real concern behind it** → **One-sentence counter**
+
+Full objection response strategy and pricing objection handling belong in the Pricing doc, not here.
 
 ---
 
 ### 8. Communication Preferences
 
-How and where to reach them:
-- **Preferred channels**: (email, LinkedIn, community, referral, events)
-- **Content that resonates**: (case studies, data reports, thought leadership, demos, peer recommendations)
-- **Tone sensitivity**: (formal/professional vs. conversational/direct)
-- **When they engage**: (morning email scanner, afternoon social browser, etc.)
+Write exactly 3 bullets:
+- Where they spend attention (channels they actually use)
+- What content format earns their trust
+- Tone they respond to (formal/professional vs. conversational/direct)
 
 ---
 
-### 9. Day-in-the-Life Scenario
+### 9. Day-in-the-Life
 
-A short narrative (150-200 words) describing a typical day or week for this person. Paint the picture of their professional life — the meetings they're in, the tools they're using, the decisions they're making, the frustrations they're navigating.
+Write 5-6 sentences describing a typical day or week for this person. Cover the meetings they're in, the tools they're using, the decisions they're making, and one specific frustration they feel. The goal is to make the target feel like a real human, not a demographic.
 
-This is the most humanizing section of the ICP. It makes subsequent artifact work (especially messaging and GTM) feel concrete rather than abstract.
+Do not write a narrative longer than 6 sentences. This is a snapshot, not a short story.
 
 ---
 
@@ -152,19 +135,7 @@ This is the most humanizing section of the ICP. It makes subsequent artifact wor
 Run every ICP through these tests:
 1. **The LinkedIn test**: Could you find this person with a LinkedIn search? If not, it's too vague.
 2. **The exclusion test**: Does your ICP explicitly exclude some people? If not, it's too broad.
-3. **The "so what?" test**: After each trait, ask "so what does that mean for how we market/sell?" If you can't answer, the trait doesn't belong.
-4. **The recognition test**: Would your best existing customer read this and say "that's me"?
-
----
-
-## Red Flags in a Weak ICP
-
-- "Anyone who needs [your service]" — too broad
-- Only demographic descriptors, no psychographics or behavior
-- No specific pain points — just category of problem
-- Buying triggers missing — no understanding of when they search
-- No mention of how they discover vendors or evaluate options
-- Sounds like it was written to make the founder feel good, not to guide sales/marketing
+3. **The recognition test**: Would your best existing customer read this and say "that's me"?
 
 ---
 
@@ -173,7 +144,7 @@ Run every ICP through these tests:
 The ICP artifact is complete when:
 - [ ] You could identify 10 real people who match it using LinkedIn or a database
 - [ ] A salesperson could use it to qualify a prospect in under 5 minutes
-- [ ] The pain points use language the customer would actually use (not corporate-speak)
+- [ ] The pain points use language the customer would actually use
 - [ ] The buying trigger section explains WHY someone would search RIGHT NOW
-- [ ] The objections section gives real, usable responses to real concerns
-- [ ] The day-in-the-life makes the target feel like a real human, not a demographic
+- [ ] The Day-in-the-Life is 5-6 sentences and feels like a real person
+- [ ] Each objection has a one-sentence counter

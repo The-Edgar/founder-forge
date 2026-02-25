@@ -4,182 +4,99 @@
 
 Brand voice is the consistent personality that shows up in every word a company writes or says. It's what makes a reader think "that sounds like them" — or "that's off." Done right, brand voice builds trust through repetition and makes communication feel human, not corporate.
 
-This artifact defines the voice system: the personality attributes, tone guidelines, vocabulary rules, and channel-specific applications that ensure every piece of communication sounds like one coherent brand.
+This artifact defines the voice system: the personality attributes, tone guidelines, and vocabulary rules that ensure every piece of communication sounds like one coherent brand. Channel-specific execution (what to post, what to say, how to write hooks) belongs in the GTM Playbook — not here.
 
 ---
 
 ## Document Structure
 
-### 1. Brand Personality Portrait
+### 1. Sample Messaging in Brand Voice
+
+Put this section first — it's the most immediately useful part of the document.
+
+Write **3 short copy samples** showing the brand voice in action. For each, show:
+- **Context**: (what this would be used for — e.g., homepage headline, cold email opening line, LinkedIn post opener)
+- **In-voice version**: (the brand-appropriate copy)
+- **Out-of-voice comparison**: (what it sounds like in generic corporate-speak)
+
+Use contexts that are immediately applicable: homepage hero, cold email opener, and one social post opener.
+
+---
+
+### 2. Brand Personality Portrait
 
 A short narrative (100-150 words) describing the brand's personality as if it were a person:
 - If this brand were a person at a dinner party, how would they come across?
 - What would they talk about? How would they engage?
 - What would they never do or say?
 
-This is the most memorable section — it should make the personality feel vivid and real, not like a list of adjectives.
+Make the personality feel vivid and real — not a list of adjectives.
 
 **Example structure (adapt to the specific business):**
-> "[Brand] is the person in the room who's clearly done the work. They don't need to tell you how smart they are — it comes through in how they talk. They're direct without being harsh, confident without being arrogant. They use specific examples, not vague concepts. They'll tell you exactly what they think, and they'll tell you why. They never talk down to you, but they also won't pretend a bad idea is good. They'd rather lose a client than overpromise."
+> "[Brand] is the person in the room who's clearly done the work. They don't need to tell you how smart they are — it comes through in how they talk. They're direct without being harsh, confident without being arrogant. They use specific examples, not vague concepts. They'd rather lose a client than overpromise."
 
 ---
 
-### 2. Voice Attributes
+### 3. Voice Attributes
 
 Define **3-4 core voice attributes** — the personality traits that define the brand. For each:
 
-**Attribute Name**: (one-word label like "Direct", "Warm", "Sharp", "Grounded")
-**What this means**: (1-2 sentences defining this trait in practice)
-**This, not that**: (specific contrast showing the guardrail)
-**Example in action**: (a short piece of copy that shows it vs. a "wrong" version)
+**[Attribute Name]** — (one-word label: Direct, Warm, Sharp, Grounded, etc.)
 
-**Format:**
+- **What this means in practice**: 1-2 sentences
+- ✓ **Do this**: one example
+- ✗ **Not this**: the wrong version
 
----
-**[Attribute]**
+Add a 3-bullet note on tone drift — the common situations where this brand's voice tends to slip, and how to stay on-brand. This note is attached to the Voice Attributes section, not written as a separate section.
 
-This brand is [definition].
-
-✓ **Do this**: [example]
-✗ **Not this**: [wrong version]
+Example drift note format:
+- *In proposals*: resist getting overly formal — keep sentences short and use "you/we" language
+- *Sharing wins*: be specific about the result, let numbers speak rather than overclaiming
+- *Cold outreach*: lead with value, not with "I"
 
 ---
 
-Build 3-4 of these. Common attribute pairs to consider (pick those that fit the business):
-- Direct ↔ Blunt / Diplomatic
-- Warm ↔ Friendly / Cold
-- Confident ↔ Arrogant / Tentative
-- Precise ↔ Pedantic / Vague
-- Energetic ↔ Frenetic / Flat
-- Authoritative ↔ Preachy / Deferential
-- Human ↔ Casual / Robotic
+### 4. Tone Spectrum
 
----
+Write one master tone description: where this brand sits on the formal/casual and serious/playful axes, and how technical vs. accessible the language runs by default.
 
-### 3. Tone Spectrum
+Follow with a 2-3 item exceptions note: "More formal in proposals. More playful in social content. Never technical in outbound email." That's enough.
 
-Tone varies by context (a LinkedIn post vs. a contract vs. a cold email). Define where this brand sits on each axis AND how much it can shift by context:
-
-| Axis | Our Default | Allowed Range |
-|------|-------------|---------------|
-| Formal ↔ Casual | e.g., 60% casual | Casual in social, more formal in proposals |
-| Serious ↔ Playful | e.g., 70% serious | Can add levity in social, rarely in deliverables |
-| Technical ↔ Accessible | e.g., 50/50 | More technical in case studies, accessible in marketing |
-| Reserved ↔ Expressive | e.g., 40% expressive | More expressive in brand content, reserved in client comms |
-
-Include a note on where NOT to go: "We never become overly casual to the point of seeming careless, even on Twitter/X."
-
----
-
-### 4. Do's and Don'ts by Channel
-
-Specific guidance for the key communication channels:
-
-#### Website Copy
-**Do:**
-- [3-4 specific dos]
-
-**Don't:**
-- [3-4 specific don'ts]
-
-#### Email (Outbound & Client)
-**Do:**
-- [3-4 specific dos]
-
-**Don't:**
-- [3-4 specific don'ts]
-
-#### Social Media (LinkedIn, Twitter/X, etc.)
-**Do:**
-- [3-4 specific dos]
-
-**Don't:**
-- [3-4 specific don'ts]
-
-#### Sales Conversations & Proposals
-**Do:**
-- [3-4 specific dos]
-
-**Don't:**
-- [3-4 specific don'ts]
+Do not write per-channel tone guidance — channel execution belongs in the GTM Playbook.
 
 ---
 
 ### 5. Vocabulary Guide
 
-**Words & phrases to use** (aligned with brand personality and ICP language):
-- List 10-15 specific words or phrases that sound like this brand
-- Include category labels: power words, action words, descriptor words
+One table with two columns: **Use** and **Avoid**. Max 8 rows each.
 
-**Words & phrases to avoid**:
-- List 10-15 words/phrases that feel off-brand or overused in the industry
-- Include jargon to avoid, clichés to ban, corporate-speak to eliminate
+Include the top 3 industry clichés in the Avoid column — the terms everyone in this industry overuses that feel hollow. Do not write a separate clichés section.
 
-**Industry clichés to retire** (terms everyone in the industry overuses that feel hollow):
-- [3-5 specific examples from this industry]
+| Use | Avoid |
+|-----|-------|
+| [Word or phrase] | [Word or phrase + why] |
 
 ---
 
 ### 6. Sentence & Structure Style
 
-Beyond word choice, define how the brand writes structurally:
+Five direct statements — no sub-headers:
 
-- **Sentence length**: Short and punchy? Or longer, more nuanced? (example: "We average under 15 words per sentence in marketing copy")
-- **Paragraph length**: Dense paragraphs or white space? (example: "Never more than 3 sentences in a paragraph for marketing content")
-- **Use of questions**: Does this brand use rhetorical questions? Direct questions to the reader?
-- **Numbers and specificity**: Preference for specific numbers over vague claims (always)
-- **Active vs. passive voice**: (almost always active)
-- **First/second person**: "We" or "I"? "You" or "founders"?
-
----
-
-### 7. Sample Messaging in Brand Voice
-
-3-5 short copy samples showing the brand voice in action. For each, show:
-- **Context**: (what this would be used for)
-- **In-voice version**: (the brand-appropriate copy)
-- **Out-of-voice comparison**: (what it would look like in generic corporate-speak)
-
-This is the most practically useful section — give the founder actual copy they can use as reference points.
-
-**Suggested contexts:**
-- Homepage hero headline + subheadline
-- Cold email opening line
-- LinkedIn post opener
-- Rejection of a bad-fit prospect (to show how even hard messages stay on-brand)
-- Response to a positive review or testimonial
-
----
-
-### 8. Tone Flags
-
-Common situations where brand voice tends to drift, and how to stay on-brand:
-
-| Situation | Temptation | Stay On-Brand By |
-|-----------|-----------|-----------------|
-| Writing a proposal | Getting overly formal and stiff | Keeping sentences short, using "you/we" language |
-| Responding to criticism | Getting defensive | Staying factual, empathetic, direct |
-| Sharing a win | Overclaiming or being humble to the point of invisibility | Being specific about the result, letting the numbers speak |
-| Cold outreach | Sounding desperate or overly sales-y | Leading with value, not with "I" |
-
----
-
-## Connecting to Other Artifacts
-
-The Brand Voice Framework is the voice layer that sits on top of:
-- **ICP**: The voice should feel right for the ICP's sophistication, industry norms, and communication preferences
-- **Positioning**: The voice should make the positioning feel credible (a "sharp and direct" brand can't have vague, fluffy positioning)
-- **Website Messaging Map**: Every page of the website should pass the voice attribute test
-- **GTM Playbook**: Channel-specific content and hooks must stay within the tone parameters defined here
+1. **Sentence length**: target word count for marketing copy sentences
+2. **Paragraph length**: max sentence count per paragraph in marketing content
+3. **Questions**: does this brand use rhetorical questions, or prefer declarative statements?
+4. **Numbers**: preference for specific numbers over vague claims (always, selectively, rarely)
+5. **Voice**: first/second person defaults — "we" or "I"? "you" or the customer category name?
 
 ---
 
 ## Success Criteria
 
 The Brand Voice artifact is complete when:
+- [ ] Sample Messaging appears first and contains 3 usable copy examples
 - [ ] The personality portrait makes someone say "I can picture this brand"
-- [ ] Each attribute has a "this, not that" contrast that makes the guardrail clear
-- [ ] The vocabulary guide includes actual words — not just categories
-- [ ] The sample copy feels distinctly different from generic industry communication
+- [ ] Each voice attribute has a "this, not that" contrast that makes the guardrail clear
+- [ ] Tone drift guidance is a 3-bullet note, not a standalone section
+- [ ] The vocabulary table includes actual words — not just categories
+- [ ] No channel-specific do's/don'ts (that belongs in the GTM Playbook)
 - [ ] A new team member could use this to write on-brand content without asking questions
-- [ ] The voice is consistent with the ICP's expectations and the positioning's claims

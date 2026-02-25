@@ -2,11 +2,11 @@
 
 ## Purpose
 
-The GTM Playbook is the bridge between strategy and execution. By this point, the founder knows who they're targeting, how they're positioned, what their voice sounds like, and what they're selling. The GTM Playbook answers: **How do you reach them, and what do you say?**
+The GTM Playbook is the bridge between strategy and execution. By this point, the founder knows who they're targeting, how they're positioned, what their voice sounds like, and what they're selling. This answers: **How do you reach them, and what do you say?**
 
-This is the most channel-specific artifact. It's built around **1-2 channels the founder selects** — not a generic outreach guide. A focused playbook for 2 channels beats a superficial playbook for 6.
+This is built around **1-2 channels the founder selects**. A focused playbook for 2 channels beats a superficial playbook for 6.
 
-**Critical**: Every channel section MUST include **4-5 specific, ready-to-use hooks** grounded in real research. These are the most immediately actionable elements of the entire artifact.
+**Critical**: Every channel section MUST include **4-5 specific, ready-to-use hooks** grounded in real research.
 
 ---
 
@@ -14,7 +14,7 @@ This is the most channel-specific artifact. It's built around **1-2 channels the
 
 Before generating this artifact, confirm:
 - [ ] Which 1-2 channels the founder selected
-- [ ] All prior artifacts are read (ICP, Positioning, Brand Voice, Pricing are all inputs)
+- [ ] All prior artifacts are read (ICP doc, Positioning doc, Brand Voice doc, Pricing doc are all inputs)
 - [ ] Web searches have been done on: what's currently working on each channel in this niche, trending hook formats, top-performing content in the target industry
 
 ---
@@ -23,13 +23,12 @@ Before generating this artifact, confirm:
 
 ### 1. Channel Selection Rationale
 
-Briefly explain why the chosen channels are the right starting point for this specific business:
+For each chosen channel, write exactly **3 bullets**:
+1. Why this channel fits this ICP (where they actually spend time, based on ICP research)
+2. Realistic 90-day metric range (e.g., "15-30 qualified conversations", "500-1,500 profile views/week")
+3. One risk or challenge to be aware of
 
-**For each chosen channel:**
-- Why this channel fits this ICP (where they actually spend time, based on ICP research)
-- Why this channel fits the founder's strengths and resources
-- What kind of results are realistic in the first 90 days
-- One risk or challenge to be aware of
+Do not write explanatory paragraphs about why a channel is generally good for B2B or any category. State the ICP fit, the number, and the risk — that's enough.
 
 ---
 
@@ -47,201 +46,150 @@ Build a complete playbook for the first chosen channel. Use the relevant templat
 
 #### Sequence Architecture
 
-Design a 3-5 email sequence:
-
-| Email | Timing | Goal | Subject Line Focus |
-|-------|--------|------|-------------------|
+| Email | Timing | Goal | Focus |
+|-------|--------|------|-------|
 | Email 1 | Day 0 | Intro + one value point | Pattern interrupt / specificity |
-| Email 2 | Day 3-4 | Follow up with different angle | Social proof or case study |
-| Email 3 | Day 7-8 | Soft close / ask | Direct ask or resource |
-| Email 4 | Day 14 | Break-up email | Transparency / humor |
+| Email 2 | Day 3-4 | Different angle | Social proof or case study |
+| Email 3 | Day 7-8 | Soft close | Direct ask or resource |
+| Email 4 | Day 14 | Break-up | Transparency / humor |
 
 #### Personalization Framework
 
-What to research on each prospect before emailing:
-- [2-3 specific personalization signals to look for]
-- How to reference it naturally in the opening line
+2-3 specific signals to research on each prospect before emailing, and how to reference each naturally in the opening line.
 
 #### HOOKS — Cold Email Subject Lines
 
-**MANDATORY**: Perform a web search for trending cold email subject lines and open rate benchmarks in this specific niche before writing these. Each hook must be grounded in what's actually working.
+**MANDATORY**: Search for trending cold email subject lines in this specific niche before writing. Each hook must be grounded in what's actually working.
 
-Generate **4-5 specific, ready-to-use subject lines** for this business. For each:
+Generate **4-5 specific subject lines** for this business. For each:
 
----
-**Subject Line [#]**: "[Exact subject line text]"
+```
+Subject Line: "[Exact subject line text]"
+Why it works: [One-line psychological note — pattern interrupt / curiosity gap / specificity / social proof]
+```
 
-**Scroll-stop score**: [1-5]
+Do not include a scroll-stop score. Do not include "How to adapt it" blocks.
 
-**Why it works**: [The psychological principle — pattern interrupt, curiosity gap, specificity, social proof, etc.]
-
-**How to adapt it**: [How to personalize or vary this as the business evolves]
-
----
-
-Subject line hook formats to draw from:
-- **Pattern interrupt**: Completely unexpected subject line for this industry ("I don't want to sell you anything")
-- **Specificity**: Name a specific company, person, or result ("[Their company name]'s approach to [X]")
+Hook formats to draw from:
+- **Pattern interrupt**: Completely unexpected for this industry ("I don't want to sell you anything")
+- **Specificity**: Name a specific company, person, or result ("[Their company]'s approach to [X]")
 - **Curiosity gap**: Incomplete information that forces the open ("The reason [ICP pain point] keeps happening")
 - **Social proof**: Name a recognizable client or result ("[Known company] did this in 30 days")
 - **Direct**: No games, just the offer ("15-minute call to show you [specific outcome]?")
 
 #### Email Body Framework
 
-Opening line formulas that get responses:
-- Hyper-specific opener: "[I saw you just] / [I noticed that] / [Congrats on]" + relevant signal
-- Shared context opener: "[We both work with] / [I've helped companies like]" + bridge
-- Result-first opener: "[Client type] achieved [result] in [timeframe]. Here's how."
+Opening line formulas (write one example of each for this specific business):
+- Hyper-specific: "[I saw you just] / [I noticed that] / [Congrats on]" + relevant signal
+- Result-first: "[Client type] achieved [result] in [timeframe]."
 
-Body structure (2-3 sentences max):
-1. Why they specifically (not generic)
-2. What you do + one specific result
-3. The ask (tiny commitment — 15 minutes, a reply, a yes/no)
+Body structure (2-3 sentences): why them specifically → what you do + one specific result → the ask (tiny commitment)
 
 ---
 
 ### LinkedIn Playbook
 
-**Research first**: Search for "[target industry] LinkedIn content strategy", "LinkedIn posts that get engagement [niche]", "LinkedIn algorithm 2024 what's working" before writing this section.
+**Research first**: Search for "[target industry] LinkedIn content strategy", "LinkedIn posts that get engagement [niche]", "LinkedIn algorithm what's working" before writing this section.
 
 #### Content Strategy
 
-**Posting cadence**: [X posts per week] — based on what the algorithm currently rewards and founder capacity
-
-**Content pillars** (3-4 recurring themes):
-| Pillar | What It Covers | Goal | Frequency |
-|--------|---------------|------|-----------|
-| [Name] | [Topic area] | [Awareness/trust/leads] | [X/week] |
-
-**Content formats to use**:
-- [Format 1]: why it works for this audience
-- [Format 2]: why it works for this audience
-
-**Profile optimization priorities**:
-- Headline: (specific formula for this business)
-- About section: (structure and key elements)
-- Featured section: (what to feature — case study, lead magnet, video)
+- **Posting cadence**: X posts per week
+- **Content pillars**: 3-4 recurring themes as a simple table (Pillar | Topic | Goal | Frequency)
+- **Formats**: 2-3 content formats with one sentence on why each works for this audience
+- **Profile priorities**: Headline formula + Featured section recommendation (one line each)
 
 #### HOOKS — LinkedIn Post First Lines
 
-**MANDATORY**: Search for top-performing LinkedIn posts in this niche. Look for "LinkedIn posts that went viral [industry]" and "LinkedIn hook examples [target audience]". These hooks must be specific to this business and audience.
+**MANDATORY**: Search for top-performing LinkedIn posts in this niche before writing. These hooks must be specific to this business and audience.
 
-Generate **4-5 specific, ready-to-use first-line hooks** for LinkedIn posts. For each:
+Generate **4-5 specific first-line hooks** for LinkedIn posts. For each:
 
----
-**Hook [#]**: "[Exact first line of the post]"
+```
+Hook: "[Exact first line of the post]"
+Why it works: [One-line psychological note]
+```
 
-**Scroll-stop score**: [1-5]
+Do not include a scroll-stop score. Do not include "How to adapt it" blocks.
 
-**Why it works**: [The psychological mechanism]
-
-**How to adapt it**: [Variation ideas]
-
----
-
-LinkedIn hook formats to draw from:
+Hook formats to draw from:
 - **Contrarian take**: "Everyone says [conventional wisdom]. They're wrong."
-- **Surprising stat**: "I analyzed [X number] [topic]. The results shocked me."
-- **Personal story opener**: "3 years ago I [embarrassing/relatable situation]."
+- **Surprising stat**: "I analyzed [X] [topic]. Here's what I found."
+- **Personal story opener**: "[Time] ago I [relatable situation]."
 - **Bold claim**: "[Your category] is broken. Here's proof."
 - **"I used to think X until..."**: "I used to think [common belief] was enough. Then [thing happened]."
-- **The list promise**: "7 things [ICP] don't know about [topic] (but should):"
+- **The list promise**: "[Number] things [ICP] don't know about [topic] (but should):"
 
 #### DM / Connection Request Strategy
 
-For outbound LinkedIn DM sequences:
-- Connection request note: (what to say in the 300-character connection request — or whether to send blank)
-- Opening DM after connection: (specific formula — value-first, not a pitch)
-- Follow-up sequence: 2-3 message framework
+- Connection request note: what to say in 300 characters (or whether to send blank)
+- Opening DM after connection: the specific formula — value-first, not a pitch
+- Follow-up: 2-3 message framework
 
 ---
 
 ### TikTok Playbook
 
-**Research first**: Search for "TikTok content strategy [industry/niche] 2024", "TikTok hooks that stop the scroll [target audience]", "what's trending on TikTok [relevant topic]" before writing this section.
+**Research first**: Search for "TikTok content strategy [industry] 2024", "TikTok hooks that stop the scroll [target audience]", "what's trending on TikTok [relevant topic]" before writing this section.
 
 #### Content Strategy
 
-**Niche positioning**: What corner of TikTok does this business own?
-
-**Content pillars** (3-4):
-| Pillar | Video Type | Hook Style | Goal |
-|--------|-----------|-----------|------|
-| [Name] | [Format] | [Hook style] | [Awareness/leads] |
-
-**Posting cadence**: [X/week] based on algorithm requirements and realistic production capacity
-
-**Production tips** for this specific content type:
-- What equipment/setup is needed (minimal vs. produced)
-- Optimal video length for this content type
-- Text overlay and caption strategy
+- **Niche positioning**: What corner of TikTok does this business own?
+- **Content pillars**: 3-4 pillars as a table (Pillar | Video Type | Hook Style | Goal)
+- **Posting cadence**: X/week based on algorithm and realistic production capacity
+- **Production**: equipment/setup needed, optimal video length, text overlay approach (3 bullets)
 
 #### HOOKS — TikTok 3-Second Openers
 
-**MANDATORY**: Search for viral TikTok hooks in this niche. Look for "TikTok hooks that stop the scroll" and "[industry] TikTok viral content" to ground these in what's actually working.
+**MANDATORY**: Search for viral TikTok hooks in this niche before writing.
 
-Generate **4-5 specific, ready-to-use 3-second hooks** for TikTok. These are the OPENING LINE of the video — what you say (or show on screen) in the first 3 seconds. For each:
+Generate **4-5 specific 3-second hooks** (the opening line of the video). For each:
 
----
-**Hook [#]**:
-- **Visual**: [What appears on screen]
-- **Audio**: "[Exact words spoken]"
+```
+Visual: [What appears on screen]
+Audio: "[Exact words spoken]"
+Why it works: [One-line psychological note]
+```
 
-**Scroll-stop score**: [1-5]
+Do not include a scroll-stop score. Do not include "How to adapt it" blocks.
 
-**Why it works**: [Psychological mechanism]
-
-**How to adapt it**: [Variation ideas]
-
----
-
-TikTok hook formats to draw from:
-- **"Stop if you're a [ICP] who [pain point]"**: Direct call-out to the target audience
+Hook formats to draw from:
+- **"Stop if you're a [ICP] who [pain point]"**: Direct call-out
 - **The controversy opener**: "[Claim] that most [ICP] will disagree with"
-- **The mistake reveal**: "I made this mistake for 3 years as a [ICP type]"
+- **The mistake reveal**: "I made this mistake for [X] years as a [ICP type]"
 - **The result show**: "Here's how I [result] in [timeframe] — no [common excuse]"
-- **The pattern interrupt**: Start mid-story, or show a surprising visual
+- **Pattern interrupt**: Start mid-story, or show a surprising visual
 
 ---
 
 ### Twitter/X Playbook
 
-**Research first**: Search for "Twitter/X growth strategy [niche] 2024", "tweet hooks that go viral [industry]", "thread format Twitter [topic]" before writing this section.
+**Research first**: Search for "Twitter/X growth strategy [niche]", "tweet hooks that go viral [industry]", "thread format Twitter [topic]" before writing this section.
 
 #### Content Strategy
 
-**Profile strategy**: Bio formula, pinned post, what to feature
-
-**Posting cadence**: [X tweets/day or week] + thread frequency
-
-**Content mix**:
-- [X%] short tweets (opinions, observations, one-liners)
-- [X%] threads (educational, story-driven)
-- [X%] replies/engagement (building authority through comments)
+- **Profile strategy**: bio formula, pinned post, what to feature (3 bullets)
+- **Content mix**: % short tweets / % threads / % replies — with one sentence on what each does
+- **Posting cadence**: X tweets/day or week + thread frequency
 
 #### HOOKS — Tweet & Thread Openers
 
-**MANDATORY**: Search for high-engagement tweet formats in this niche. Look for "best tweet hooks" and "[industry] Twitter engagement" before writing these.
+**MANDATORY**: Search for high-engagement tweet formats in this niche before writing.
 
-Generate **4-5 specific, ready-to-use tweet/thread opener hooks**. For each:
+Generate **4-5 specific tweet/thread openers**. For each:
 
----
-**Hook [#]**: "[Exact tweet text or thread first tweet]"
+```
+Hook: "[Exact tweet text or thread first tweet]"
+Why it works: [One-line psychological note]
+```
 
-**Scroll-stop score**: [1-5]
+Do not include a scroll-stop score. Do not include "How to adapt it" blocks.
 
-**Why it works**: [Psychological mechanism]
-
-**How to adapt it**: [Variation ideas]
-
----
-
-Twitter hook formats:
+Hook formats to draw from:
 - **Bold claim**: "[Controversial or surprising statement about the industry]"
 - **Counterintuitive insight**: "Here's what nobody tells you about [topic]:"
 - **The number**: "I've done [X of something]. Here's what I learned:"
 - **The contrast**: "Most [ICP] do [thing]. The successful ones do [other thing]."
-- **The prediction**: "[Industry] will look completely different in 3 years. Here's why:"
+- **The prediction**: "[Industry] will look completely different in [X] years. Here's why:"
 
 ---
 
@@ -253,40 +201,29 @@ Twitter hook formats:
 
 Top 3-5 subreddits where the ICP spends time:
 
-| Subreddit | Size | Content Rules | Best Post Type |
-|-----------|------|---------------|----------------|
-| r/[name] | [X members] | [Key rules] | [Question/story/resource] |
-
-**Community rules to know**: What gets posts removed in each community? What's frowned upon?
+| Subreddit | Size | Key Rules | Best Post Type |
+|-----------|------|-----------|----------------|
+| r/[name] | [X members] | [What gets removed] | [Question/story/resource] |
 
 #### Content Strategy
 
-**Value-first posting**: Reddit rewards giving before taking. 80% of posts should be genuinely helpful with no promotion.
-
-**Post types that work on Reddit**:
-- The honest question: Asking for community input (drives replies, builds visibility)
-- The detailed resource: Long-form guides that save people time
-- The experience post: "I've done X, here's what I learned"
-- The AMA: "I'm a [expert], ask me anything"
+- **Value-first posting**: 80% of posts genuinely helpful with no promotion
+- **Post types**: The honest question / The detailed resource / The experience post / The AMA — one sentence each on what makes each type land in this community
 
 #### HOOKS — Reddit Title Hooks
 
-**MANDATORY**: Research the most upvoted posts in the target subreddits before writing these hooks. What patterns do viral Reddit titles follow in this community?
+**MANDATORY**: Research most upvoted posts in target subreddits before writing.
 
-Generate **4-5 specific, ready-to-use Reddit post title hooks**. For each:
+Generate **4-5 specific Reddit post title hooks**. For each:
 
----
-**Title Hook [#]**: "[Exact post title]"
+```
+Title: "[Exact post title]"
+Why it works: [One-line note on what makes Reddit users click/upvote this type]
+```
 
-**Scroll-stop score**: [1-5]
+Do not include a scroll-stop score. Do not include "How to adapt it" blocks.
 
-**Why it works**: [What makes Reddit users click/upvote this type of title]
-
-**How to adapt it**: [Variation ideas]
-
----
-
-Reddit title hook formats:
+Hook formats to draw from:
 - **Genuine question**: "Why does [ICP problem] happen and is there a fix?"
 - **Experience post**: "I [did X] for [timeframe]. Here's what actually happened."
 - **Resource title**: "I compiled [resource] so you don't have to. Free in comments."
@@ -297,88 +234,58 @@ Reddit title hook formats:
 
 ### YouTube Playbook
 
-**Research first**: Search for "YouTube SEO [industry niche]", "YouTube content strategy [target audience] 2024", "highest performing YouTube videos [topic]" before writing this section.
+**Research first**: Search for "YouTube SEO [industry niche]", "YouTube content strategy [target audience]", "highest performing YouTube videos [topic]" before writing this section.
 
 #### Channel Strategy
 
-**Channel positioning**: What's the one thing this channel owns in the creator landscape?
-
-**Content format selection** (pick 1-2):
-- Educational how-to's
-- Case study walkthroughs
-- Thought leadership / opinion pieces
-- Behind-the-scenes / documentary
-- Interviews with target audience peers
-
-**SEO strategy**: Primary keyword themes to target, search volume rationale
-
-**Lead magnet integration**: How YouTube videos funnel to conversion (description links, end screens, pinned comments)
+- **Positioning**: What's the one thing this channel owns in the creator landscape?
+- **Content format**: 1-2 formats from: educational how-to's / case study walkthroughs / thought leadership / behind-the-scenes / interviews
+- **SEO strategy**: Primary keyword themes to target
+- **Lead magnet**: How videos funnel to conversion (description links, end screens, pinned comments)
 
 #### HOOKS — YouTube Thumbnail + Title + First 15 Seconds
 
-**MANDATORY**: Search for top-performing YouTube videos in this niche. What do their thumbnails look like? What titles get the most clicks? Research before writing these.
+**MANDATORY**: Search for top-performing YouTube videos in this niche before writing.
 
-Generate **4-5 specific, ready-to-use YouTube hook sets**. For each:
+Generate **4-5 specific YouTube hook sets**. For each:
 
----
-**Hook Set [#]**:
-- **Title**: "[Exact video title]"
-- **Thumbnail concept**: [What image/text appears on the thumbnail]
-- **First 15 seconds script**: "[Exact words for the video opening]"
+```
+Title: "[Exact video title]"
+Thumbnail: [What image/text appears]
+First 15 seconds: "[Exact words for the video opening]"
+Why it works: [One-line note on CTR psychology or retention hook]
+```
 
-**Scroll-stop score**: [1-5]
-
-**Why it works**: [CTR psychology, thumbnail principles, retention hook]
-
-**How to adapt it**: [Variation ideas]
-
----
+Do not include a scroll-stop score. Do not include "How to adapt it" blocks.
 
 YouTube hook principles:
 - **Title formula**: "[Outcome] in [Timeframe]" or "Why [ICP] Can't [Achieve X] (And How to Fix It)"
-- **Thumbnail rule**: One dominant emotion, one person's face if possible, minimal text
-- **First-15-seconds rule**: State the problem (not the intro), promise the payoff, remove doubt about whether they're in the right place
+- **Thumbnail rule**: one dominant emotion, one person's face if possible, minimal text
+- **First-15-seconds rule**: state the problem (not the intro), promise the payoff, remove doubt about whether they're in the right place
 
 ---
 
 ## 3. Multi-Channel Integration (If 2 Channels Selected)
 
-When a founder chooses 2 channels, show how they work together as a system:
-
-**Content → Amplification Flow**:
-[Channel A] creates content → [Channel B] distributes or warms the audience → back to conversion
-
-**Examples of working 2-channel systems**:
-- LinkedIn content (thought leadership) → Cold Email (warmed prospects have seen the content before the cold email lands)
-- TikTok (top-of-funnel awareness) → Website/email capture → Email nurture → Conversion
-- Twitter/X (community building) → DMs → Discovery call
-
-Design the specific integration flow for the chosen channels:
-- What does success on [Channel 1] unlock for [Channel 2]?
-- At what signal do you transition someone from [Channel 1] to direct outreach?
-- What content can be repurposed or cross-posted between channels?
+When the founder chose 2 channels, show how they work together as a system in 3 bullets:
+1. The content-to-amplification flow: how Channel A feeds Channel B
+2. The signal that moves someone from Channel A to direct outreach
+3. What content can be repurposed or cross-posted between channels
 
 ---
 
 ## 4. First 30 Days Execution Guide
 
-A week-by-week action plan for the chosen channels. Specific enough to know exactly what to do on Day 1.
+One table. No paragraph-per-week narrative.
 
-**Week 1: Setup & Foundation**
-- [Channel 1]: [3-4 specific setup actions]
-- [Channel 2]: [3-4 specific setup actions]
+| Week | [Channel 1] Actions | [Channel 2] Actions | Milestone |
+|------|---------------------|---------------------|-----------|
+| 1 — Setup | [3-4 setup actions] | [3-4 setup actions] | Both channels ready |
+| 2 — Launch | [Specific content/outreach using hooks above] | [Specific actions] | First content live |
+| 3 — Optimize | [What to measure and adjust] | [Engagement actions] | Data on what's working |
+| 4 — Systematize | [What to document and batch] | [What to batch] | Month 2 content queued |
 
-**Week 2: First Content Push**
-- [Channel 1]: [Specific content to create and publish, with the hooks from above]
-- [Channel 2]: [Specific outreach or content actions]
-
-**Week 3: Engagement & Optimization**
-- What to measure and adjust based on Week 2 results
-- How to engage with any early traction
-
-**Week 4: Systematize**
-- What to document and systematize based on what worked
-- How to batch-produce the next month of content/outreach
+If the ICP doc covered seasonal buying patterns, reference it in one sentence here. Do not reproduce a month-by-month calendar.
 
 ---
 
@@ -386,8 +293,8 @@ A week-by-week action plan for the chosen channels. Specific enough to know exac
 
 The GTM Playbook is complete when:
 - [ ] Each chosen channel has a complete playbook, not just an overview
-- [ ] 4-5 specific hooks are provided for each channel, grounded in web research
-- [ ] Each hook includes: the exact copy, scroll-stop score, psychological explanation, and adaptation notes
-- [ ] The multi-channel integration section (if 2 channels) shows a clear content-to-conversion flow
-- [ ] The first 30 days guide is specific enough to execute on Day 1 without asking more questions
-- [ ] All hooks and content angles are tailored to THIS business's ICP, positioning, and brand voice — not generic examples
+- [ ] 4-5 hooks are provided per channel, grounded in web research
+- [ ] Each hook has the exact copy + one-line psychological note (no score, no adaptation blocks)
+- [ ] The multi-channel integration section shows a clear content-to-conversion flow (if 2 channels)
+- [ ] The first 30 days guide is one table, specific enough to execute on Day 1
+- [ ] All hooks reference this business's ICP, positioning, and brand voice — not generic examples

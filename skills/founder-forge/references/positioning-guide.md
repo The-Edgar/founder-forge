@@ -12,135 +12,88 @@ Great positioning is specific, defensible, and resonant with the target customer
 
 ### 1. Market Context Summary
 
-A brief (1-2 paragraph) summary of the competitive landscape as it applies to this business:
+One short paragraph summarizing the competitive landscape:
 - Who are the primary competitors / alternatives?
-- What do they claim? (Summarize the crowded positioning territory)
-- What positioning angles are underexplored?
+- What territory do they all cluster around?
+- What positioning angle is underexplored?
 
-This sets the context for why the chosen positioning is the right move.
+Write this as a setup for the positioning statement, not as a standalone analysis.
 
 ---
 
 ### 2. Positioning Statement
 
-The classic Geoffrey Moore positioning statement template — one tight paragraph:
+One positioning statement using the Geoffrey Moore template:
 
 > **For** [target customer], **who** [have a specific need or situation], **[company/product name]** is a [market category] **that** [delivers a specific benefit]. **Unlike** [primary alternative or competitor], **we** [key differentiator].
 
-**Writing a strong positioning statement:**
-- The "target customer" should match the ICP exactly
-- The "specific need or situation" is the trigger moment or core pain point
-- The "market category" tells them how to think about you (avoids confusion)
-- The "specific benefit" is the outcome they care about, not the feature you have
-- The "key differentiator" should be something true, specific, and hard to copy
+Write one statement. Do not write alternative versions.
 
-**Example (illustrative — not to use verbatim):**
-> For operations leaders at Series A SaaS companies who waste 20+ hours per month manually reconciling data across tools, DataSync is a no-code integration platform that eliminates manual ops work in 72 hours. Unlike Zapier or custom development, we offer pre-built SaaS-to-SaaS connectors that require zero engineering resources.
+**Standards for a strong statement:**
+- "Target customer" matches the ICP exactly
+- "Market category" tells buyers how to think about the business (avoids confusion)
+- "Specific benefit" is the outcome the customer cares about, not the feature
+- "Key differentiator" is true, specific, and hard to copy
 
----
+Apply the So What / Only We tests as an internal drafting check before writing the final statement:
+- **So What test**: After each clause, the customer benefit should be obvious. If it isn't, rewrite.
+- **Only We test**: Can you say "Only [company] [differentiator]"? If not, make it more specific.
 
-### 3. Alternative Positioning Statements
-
-Provide 2 alternative versions that take different angles (e.g., emphasizing a different benefit, a different competitor contrast, or a different customer segment). This gives the founder options to test.
+These tests are drafting tools. Do not include a "Positioning Tests" section in the output.
 
 ---
 
-### 4. Unique Selling Propositions (USPs)
+### 3. Unique Selling Propositions (USPs)
 
-Identify 3-5 genuine differentiators. For each USP:
+Write exactly **3 USPs**. For each, write one paragraph (3-4 sentences) that combines:
+- The specific differentiator
+- Why it's defensible (process, credential, network, tech, guarantee)
+- The proof point or evidence
 
-**USP Name**: (a short, memorable label)
-**The Claim**: (the specific thing you do or offer)
-**Why It Matters**: (what the customer gains — tied to their pain points from the ICP)
-**Why It's Defensible**: (why competitors can't easily copy this — is it a process, credential, network, technology, team, guarantee?)
-**Evidence / Proof**: (how you'd demonstrate or substantiate this claim)
+Do not use a sub-section structure (Claim / Why Different / Why Defensible / Evidence). Write the paragraph so these elements flow naturally.
 
 **USP quality standards:**
 - Specific: "We reduce onboarding time by 60%" not "We're fast"
 - Verifiable: There's a way to prove or demonstrate it
-- Relevant: The ICP explicitly cares about this
-- Differentiated: Competitors don't already claim it (or can't do it as well)
-
-**Examples of weak vs strong USPs:**
-- Weak: "We're experienced and reliable"
-- Strong: "100% of projects delivered on time in 47 completed engagements — guaranteed by contract"
-
-- Weak: "We use a proven methodology"
-- Strong: "Our 3-week Clarity Sprint™ is built on 200+ brand strategy projects across 12 industries — documented, repeatable, teachable"
+- Relevant: The ICP explicitly cares about this (refer to pain points from the ICP doc)
+- Differentiated: Competitors don't already claim it equally well
 
 ---
 
-### 5. Competitive Positioning Matrix
+### 4. Competitive Positioning Matrix
 
-A visual map of the competitive landscape showing where this business sits relative to competitors on 2 key dimensions.
+Write the table. No explanatory paragraphs before or after it — the table shows the position; that's enough.
 
 Choose the 2 dimensions that matter most to the ICP. Common pairs:
 - Price vs. Specialization
 - DIY vs. Done-for-You
 - Speed vs. Depth
 - Tech-Forward vs. Relationship-Forward
-- Niche vs. Generalist
 
 | | **[Low X axis]** | **[High X axis]** |
 |---|---|---|
 | **[High Y axis]** | Competitor A | **[Our Company]** |
 | **[Low Y axis]** | Competitor B, C | Competitor D |
 
-Include 1-2 sentences explaining why this positioning in the matrix is the right territory.
-
 ---
 
-### 6. Category Design
+### 5. Messaging Implications
 
-Should this business fit into an existing market category — or create a new one?
+Four direct statements — no sub-sections:
 
-- **Existing category**: Faster to educate buyers, but harder to differentiate. Use when the category is well-understood and the business clearly wins within it.
-- **New category**: Harder to educate, but can own the space. Use when existing categories don't capture the value, or when competitors' framing works against the business.
-
-Recommendation: (pick one, explain why)
-
-If creating a new category, provide:
-- The new category name
-- The old category it replaces or escapes from
-- The one-sentence explanation of why the old category was limiting
-
----
-
-### 7. Positioning Tests
-
-Run the positioning through these 3 tests before finalizing:
-
-**The "So What?" Test**
-Read the positioning statement aloud. After each sentence, ask: "So what?" If there's no clear answer that connects to customer value, rewrite.
-
-**The "Only We" Test**
-Can you say "Only [company name] [differentiator]"? If not, the positioning is too generic.
-- "Only DataSync offers pre-built SaaS connectors with zero engineering dependency" ✓
-- "Only DataSync offers excellent customer service" ✗
-
-**The Customer Mirror Test**
-Would the ICP read this positioning and immediately think "this is for me"? Or would they read it and think "this could be for anyone"?
-Show the positioning statement to 3 people who match the ICP description (or simulate their reaction based on your ICP research). Note their response.
-
----
-
-### 8. Messaging Implications
-
-How does this positioning translate into practical messaging rules?
-
-- **The headline formula**: [Specific benefit] for [Specific customer] — what's the 8-10 word version of this positioning?
-- **What to lead with**: Which USP should anchor all outbound communication?
-- **What to avoid saying**: What claims or language would undermine or muddy this position?
-- **The competitive contrast**: When prospects compare, what's the one-sentence answer to "why not [main competitor]?"
+1. **Lead with**: Which USP should anchor all outbound communication
+2. **Headline formula**: The 8-10 word version of this positioning (benefit + customer)
+3. **Avoid saying**: Claims or language that would muddy this position
+4. **Competitive contrast**: One sentence to answer "why not [main competitor]?"
 
 ---
 
 ## Success Criteria
 
 The Positioning artifact is complete when:
-- [ ] The positioning statement passes all 3 tests (So What, Only We, Customer Mirror)
-- [ ] Each USP is specific, verifiable, and genuinely differentiated
-- [ ] The competitive matrix shows a clear, defensible position
+- [ ] The positioning statement passes the So What and Only We tests
+- [ ] Exactly 3 USPs, each with differentiator + defensibility + proof in one paragraph
+- [ ] No alternative positioning statements — one clear direction
+- [ ] The competitive matrix shows a clear, defensible position without supporting prose
 - [ ] A salesperson could use this to answer "why should I choose you?" in 30 seconds
-- [ ] The messaging implications section gives clear do's and don'ts
-- [ ] The positioning is clearly informed by and consistent with the ICP artifact
+- [ ] The positioning is clearly informed by and consistent with the ICP doc
