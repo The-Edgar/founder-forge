@@ -10,7 +10,7 @@ What takes McKinsey 8 weeks and $200K, FounderForge builds in one session with l
 
 ## What You Get
 
-Six interconnected strategy artifacts — each built with real market research and informed by the one before it:
+Six interconnected strategy artifacts with each built through real market research and informed by the one before it:
 
 1. **Ideal Customer Profile** — Know exactly who you're building for. Specific enough to find them on LinkedIn.
 2. **Positioning & USPs** — Claim your space in a crowded market. Pass the "only we" test.
@@ -139,5 +139,5 @@ PRs welcome for:
 
 ## License
 
-MIT — use freely, modify freely, share freely.
+MIT: use freely, modify freely, share freely.
 
