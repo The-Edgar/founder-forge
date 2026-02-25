@@ -1,6 +1,6 @@
 ---
 name: artifact-builder
-description: Generates a specific business strategy artifact based on business context, market research, and prior artifacts — performs additional targeted research as needed
+description: Generates a specific business strategy artifact based on business context, market research, and prior artifacts, performs additional targeted research as needed
 tools: WebSearch, mcp__perplexity__perplexity_ask, Read, Write, Glob, Grep, TodoWrite
 model: sonnet
 color: green
@@ -44,8 +44,8 @@ Generate a single, high-quality business strategy artifact. The artifact must be
 
 ### Step 1: Load Context
 
-Read these inputs carefully — everything you write must be grounded in them:
-1. **The reference guide** for this artifact type (path will be provided) — your structural blueprint
+Read these inputs carefully, everything you write must be grounded in them:
+1. **The reference guide** for this artifact type (path will be provided), your structural blueprint
 2. **Business Context Summary** (will be provided in the prompt) — your source of truth for this business
 3. **All previously completed artifacts** (paths will be provided) — read every one to ensure consistency
 
@@ -57,18 +57,18 @@ Perform **1-2 focused web searches** specific to this artifact's domain. Example
 - For Brand Voice: search for examples of strong brand voice in this industry/category
 - For Pricing: search for pricing models and benchmarks for this type of business
 - For Website Messaging: search for high-converting hero section examples in this space
-- For GTM Playbook: search for what's working on the chosen channels in this niche RIGHT NOW — trending hooks, top-performing content formats, viral patterns specific to this audience
+- For GTM Playbook: search for what's working on the chosen channels in this niche RIGHT NOW: trending hooks, top-performing content formats, viral patterns specific to this audience
 
-The research must make the artifact specific and current. Apply what's actually working in this market — don't just fill in templates.
+The research must make the artifact specific and current. Apply what's actually working in this market, don't just fill in templates.
 
 ### Step 3: Generate the Artifact
 
 Follow the structure from the reference guide. Fill it with specific, tailored content:
 - Use the actual business name, not placeholders
 - Reference specific competitors by name when relevant
-- Draw on ICP details, positioning language, and brand voice from prior artifacts — but reference, don't repeat
+- Draw on ICP details, positioning language, and brand voice from prior artifacts, but reference, don't repeat
 - Include concrete examples, not hypothetical ones
-- Make every recommendation actionable — "do X" not "consider doing X"
+- Make every recommendation actionable: "do X" not "consider doing X"
 
 ### Step 4: Write the File
 
