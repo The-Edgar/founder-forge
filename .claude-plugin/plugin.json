@@ -1,0 +1,23 @@
+{
+  "name": "founder-forge",
+  "description": "Zero to Strategy in One Session — research your market, clarify your strategy, and forge 6 core business artifacts like a YC founder. Consultant-free.",
+  "version": "1.0.0",
+  "author": {
+    "name": "YOUR_NAME",
+    "url": "https://github.com/YOUR_USERNAME"
+  },
+  "homepage": "https://github.com/YOUR_USERNAME/founder-forge",
+  "repository": "https://github.com/YOUR_USERNAME/founder-forge",
+  "license": "MIT",
+  "keywords": [
+    "business-strategy",
+    "founder",
+    "startup",
+    "market-research",
+    "positioning",
+    "brand-voice",
+    "pricing",
+    "go-to-market",
+    "consulting"
+  ]
+}
