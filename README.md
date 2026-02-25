@@ -141,6 +141,3 @@ PRs welcome for:
 
 MIT — use freely, modify freely, share freely.
 
----
-
-*Built with [Claude Code](https://claude.ai/claude-code). Forged for founders who'd rather ship than wait for a consultant.*
