@@ -2,7 +2,7 @@
 
 ### Zero to Strategy in One Session
 
-> Forge your business strategy like a YC founder — from napkin idea to 6 research-backed artifacts. Consultant-free.
+> Zero to Strategy in One Session — Develop your Business Idea into an actionable strategy based on thorough market research and competitor analysis. Clarify your ICPs, USPs, Service Pricing, Brand Voice, Website copy and GTM playbook like a YC entrepreneur. Consultant-free.
 
 What takes McKinsey 8 weeks and $200K, FounderForge builds in one session with live market research, battle-tested frameworks, and zero billable hours.
 
@@ -41,7 +41,7 @@ Idea → Market Research → Strategic Q&A → 6 Artifacts
 
 ```bash
 # Install from GitHub
-/plugin marketplace add YOUR_USERNAME/founder-forge
+/plugin marketplace add The-Edgar/founder-forge
 /plugin install founder-forge@founder-forge
 
 # Run
@@ -76,7 +76,7 @@ founder-forge-output/
 
 ## Requirements
 
-- **Claude Code v1.0.33+**
+- **Claude Code or Cowork**
 - **Web search tools** (required — FounderForge does real market research)
 
 **Recommended**: [Perplexity MCP server](https://github.com/ppl-ai/modelcontextprotocol) for citation-backed research
@@ -93,8 +93,7 @@ The GTM Playbook goes deeper than "post on LinkedIn." For each of your chosen ch
 
 1. **Researches what's actually working** on that channel in your niche right now
 2. **Generates 4-5 specific, ready-to-use hooks** — not templates, but actual copy tailored to your ICP and positioning
-3. **Explains why each hook works** — the psychology behind it
-4. **Rates each hook** on specificity, curiosity gap, relevance, and pattern interrupt (1-5 scroll-stop score)
+3. **Explains why each hook works** — the psychology behind it in one line
 
 Supported channels: Cold Email, LinkedIn, TikTok, Twitter/X, Reddit, YouTube, Partnerships, Communities/Events
 
@@ -114,7 +113,7 @@ FounderForge adapts its frameworks based on business type:
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/founder-forge
+git clone https://github.com/The-Edgar/founder-forge
 cd founder-forge
 
 # Test locally

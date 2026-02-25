@@ -1,13 +1,13 @@
 {
   "name": "founder-forge",
-  "description": "Zero to Strategy in One Session — research your market, clarify your strategy, and forge 6 core business artifacts like a YC founder. Consultant-free.",
+  "description": "Zero to Strategy in One Session — Develop your Business Idea into an actionable strategy based on thorough market research and competitor analysis. Clarify your ICPs, USPs, Service Pricing, Brand Voice, Website copy and GTM playbook like a YC entrepreneur. Consultant-free.",
   "version": "1.0.0",
   "author": {
-    "name": "YOUR_NAME",
-    "url": "https://github.com/YOUR_USERNAME"
+    "name": "Edgar Rootalu",
+    "url": "https://github.com/The-Edgar"
   },
-  "homepage": "https://github.com/YOUR_USERNAME/founder-forge",
-  "repository": "https://github.com/YOUR_USERNAME/founder-forge",
+  "homepage": "https://github.com/The-Edgar/founder-forge",
+  "repository": "https://github.com/The-Edgar/founder-forge",
   "license": "MIT",
   "keywords": [
     "business-strategy",
@@ -18,6 +18,9 @@
     "brand-voice",
     "pricing",
     "go-to-market",
-    "consulting"
+    "consulting",
+    "ideal customer profile",
+    "unique selling points",
+
   ]
 }
