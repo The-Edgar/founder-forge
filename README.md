@@ -6,6 +6,9 @@
 
 What takes McKinsey 8 weeks and $200K, FounderForge builds in one session with live market research, battle-tested frameworks, and zero billable hours.
 
+<img width="1584" height="672" alt="Generated Image February 26, 2026 - 10_42PM" src="https://github.com/user-attachments/assets/f00889d6-882c-4a45-ad4b-a893301947e5" />
+
+
 ---
 
 ## What You Get
